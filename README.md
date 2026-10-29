@@ -1,5 +1,5 @@
-# Bilen Alır — herkese açık sayfalar
+# Bilen Alır — eski adres (taşındı)
 
-Oyunun gizlilik politikası: https://sabrinejat.github.io/bilen-alir/gizlilik.html
+Gizlilik politikasının güncel adresi: https://lpar-cpu.github.io/bilen-alir/gizlilik.html
 
-Kaynak: oyun deposundaki `docs/gizlilik.html` (Unity Editor › Tools/Release/8 ile üretilir). Güncellenince buraya kopyalanır.
+Bu depo yalnız eski bağlantılar kırılmasın diye yönlendirme tutar.
